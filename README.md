@@ -1,7 +1,7 @@
 # <p align="center">✨ Jit Biswas ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
