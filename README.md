@@ -35,6 +35,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
+---
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -92,6 +93,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   />
 </p>
 
+---
 
 ### 🧠 Other Competitive Programming Platforms
 
@@ -121,6 +123,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
 **“If it works, I built it. If it breaks, I’m fixing it:)”**
 
