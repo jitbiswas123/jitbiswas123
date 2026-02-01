@@ -134,14 +134,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ---
 
-## 👀 Profile Views
-
-<p>
-  <img 
-    src="https://komarev.com/ghpvc/?username=jitbiswas123&style=flat-square&color=blue" 
-    alt="Profile Views"
-  />
-</p>
+**If it works, I built it. If it breaks, I’m fixing it.**
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
