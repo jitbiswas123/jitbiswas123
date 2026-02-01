@@ -101,13 +101,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://geeks-for-geeks-stats.vercel.app/?user=jitbiswas&theme=dark" 
-    alt="GeeksforGeeks Stats" 
-    width="420"
-  />
-</p>
 
 ---
 
@@ -135,18 +128,52 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jitbiswas123&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=jitbiswas123&theme=tokyonight)
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jitbiswas123&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="420"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=jitbiswas123&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+    width="420"
+  />
+</p>
+
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=onedark&row=1)
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=onedark&no-frame=true&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
 
 ---
 
-👀 Profile Views  
-![Views](https://visitcount.itsvg.in/api?id=jitbiswas123&color=0)
+## 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=jitbiswas123&style=flat-square&color=blue" 
+    alt="Profile Views"
+  />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
