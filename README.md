@@ -51,8 +51,6 @@
   />
 </p>
 
-<hr>
-
 ## 🧠 Competitive Programming Platforms
 
 <p align="center">
