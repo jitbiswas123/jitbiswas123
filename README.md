@@ -1,29 +1,9 @@
 <div align="center">
-  <svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .name {
-        font: bold 65px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        fill: url(#gradient);
-        filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-        animation: float 3s ease-in-out infinite;
-      }
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
-      }
-    </style>
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#5B61FF" />
-        <stop offset="50%" style="stop-color:#00D4FF" />
-        <stop offset="100%" style="stop-color:#5B61FF" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" class="name">JIT BISWAS</text>
-  </svg>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=55&pause=1000&color=5B61FF&center=true&vCenter=true&width=600&height=100&lines=JIT+BISWAS" alt="JIT BISWAS" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B61FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications;MERN+Stack+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications;MERN+Stack+Expert" alt="Typing SVG" />
   </p>
 
   <p align="center">
