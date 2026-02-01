@@ -9,20 +9,13 @@
   <a href="mailto:jitbiswas485@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🚀 Full-Stack Developer | AI-Driven Web Apps | Scalable Systems
-
-I’m a **Full-Stack Web Developer** focused on building **production-ready, scalable web applications** using modern frontend frameworks, robust backend architectures, and AI-powered features.
-
-📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
-
 ### ⚡ Quick Overview
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&width=500&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Cloud-native+Deployment+Expert;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
 </p>
+I’m a **Full-Stack Web Developer** focused on building **production-ready, scalable web applications** using modern frontend frameworks, robust backend architectures, and AI-powered features.
 
-- 🔭 **Current Focus:** Deep learning integration in SaaS products.
-- 👯 **Collaboration:** Open for real-world AI & Scalable Web projects.
-- 🛠️ **Learning:** Mastering System Design and Advanced K8s orchestration.
+📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
 
 
 ## 🧑‍💻 About Me
