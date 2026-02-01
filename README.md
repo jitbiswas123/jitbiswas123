@@ -93,8 +93,44 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ## 📊 Coding Profiles
 
-![LeetCode](https://leetcard.jacoblin.cool/jitbiswas485?theme=dark&font=Karma)
-![GFG](https://geeks-for-geeks-stats.vercel.app/?user=jitbiswxxkq)
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/jitbiswas485?theme=dark&font=Karma&ext=contest" 
+    alt="LeetCode Stats" 
+    width="420"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://geeks-for-geeks-stats.vercel.app/?user=jitbiswas&theme=dark" 
+    alt="GeeksforGeeks Stats" 
+    width="420"
+  />
+</p>
+
+---
+
+### 🧠 Other Competitive Programming Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/jitbiswas485">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/jitbiswas">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://codechef.com/users/jit_biswas">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+  </a>
+  <a href="https://codeforces.com/profile/Jit_Biswas">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://hackerrank.com/jitbiswas485">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
+
 
 ---
 
