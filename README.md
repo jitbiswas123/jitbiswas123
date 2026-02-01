@@ -15,7 +15,8 @@
 <p align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&width=500&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Cloud-native+Deployment+Expert;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
 </p>
-I’m a <strong>Full-Stack Developer</strong> focused on building <strong>scalable, production-ready web applications</strong> using modern frontend frameworks, robust backend systems, and <strong>AI-powered features</strong>. I enjoy designing <em>clean, user-centric experiences</em>, developing <strong>secure REST APIs</strong>, and integrating <strong>AI/LLMs into real-world products</strong>. Currently, I’m deepening my expertise in <strong>system design</strong>, <strong>cloud & DevOps</strong>, and <em>backend optimization</em> to build applications that scale reliably.
+<p>I’m a <strong>Full-Stack Developer</strong> focused on building <strong>scalable, production-ready web applications</strong> using modern frontend frameworks, robust backend systems, and <strong>AI-powered features</strong>. I enjoy designing clean, user-centric experiences, developing <strong>secure REST APIs</strong>, and integrating <strong>AI/LLMs into real-world products</strong>. Currently, I’m deepening my expertise in <strong>system design</strong>, <strong>cloud & DevOps</strong>, and backend optimization to build applications that scale reliably.
+</p>
 
 📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
 
