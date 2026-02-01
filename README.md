@@ -105,7 +105,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ### 🧠 Other Competitive Programming Platforms
 
-<p>
+<p align="center">
   <a href="https://leetcode.com/jitbiswas485">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
