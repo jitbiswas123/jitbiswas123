@@ -41,7 +41,7 @@
 </table>
 
 
-## 📊 Coding Profiles
+## 📊 Coding Profile
 
 <p align="center">
   <img 
@@ -53,7 +53,7 @@
 
 <hr>
 
-### 🧠 Other Competitive Programming Platforms
+## 🧠 Competitive Programming Platforms
 
 <p align="center">
   <a href="https://leetcode.com/jitbiswas485">
