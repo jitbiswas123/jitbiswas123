@@ -6,7 +6,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
 
---
+---
 
 ## 🧑‍💻 About Me
 
@@ -16,7 +16,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 - 💬 Ask me about **MERN, REST APIs, JWT, AI integration & deployments**  
 - ⚡ I love turning complex ideas into **clean, production-ready products**
 
----
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jit-biswas)
