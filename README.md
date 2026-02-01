@@ -1,4 +1,6 @@
-# <p align="center" color="#5B61FF" size="10">✨ Jit Biswas ✨</p>
+<h1 align="center">
+    <font color="#5B61FF" size="10">JIT BISWAS</font>
+  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
