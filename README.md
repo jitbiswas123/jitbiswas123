@@ -108,21 +108,23 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 <p>
   <a href="https://leetcode.com/jitbiswas485">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a> <br/>
+  </a>
   <a href="https://www.geeksforgeeks.org/user/jitbiswas">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a><br/>
-  <a href="https://codechef.com/users/jit_biswas">
+  </a>
+  <a href="https://codechef.com/users/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
-  </a><br/>
-  <a href="https://codeforces.com/profile/Jit_Biswas">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces"/>
-  </a><br/>
-  <a href="https://hackerrank.com/jitbiswas485">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
 
+<p align="center">
+  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces"/>
+  </a>
+  <a href="https://hackerrank.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
 
 ---
 
@@ -134,7 +136,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ## 👀 Profile Views
 
-<p align="center">
+<p>
   <img 
     src="https://komarev.com/ghpvc/?username=jitbiswas123&style=flat-square&color=blue" 
     alt="Profile Views"
