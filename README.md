@@ -1,4 +1,3 @@
-<div>
 <h1 align="center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&text=JIT%20BISWAS&fontColor=7C3AED&fontSize=60&fontAlignY=50&font=Montserrat" />
 </h1>
@@ -9,7 +8,6 @@
   <a href="https://linkedin.com/in/jit-biswas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jitbiswas485@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-</div>
 
 ### ⚡ Quick Overview
 <p align="left">
