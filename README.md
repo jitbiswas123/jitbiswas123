@@ -1,21 +1,21 @@
 <div align="center">
+  <h1 align="center">
+    <font color="#5B61FF" size="10">JIT BISWAS</font>
+  </h1>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=5B61FF&center=true&vCenter=true&width=500&height=100&lines=JIT+BISWAS" alt="Jit Biswas" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5B61FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications;MERN+Stack+Expert" alt="Typing SVG" />
+  </p>
 
-### 🚀 Full-Stack Developer | AI Architect | Scalable Systems
-
-<p align="center">
-  <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jitbiswas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  <p align="center">
+    <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:jitbiswas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### ⚡ The Digital Architect
-<p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=5B61FF&width=550&lines=Crafting+Premium+Digital+Experiences;Building+Scalable+AI+Solutions;MERN+Stack+Specialist;Turning+Ideas+into+Reality" alt="Typing SVG" />
-</p>
-
+### ⚡ Professional Summary
 - 🔭 **Current Focus:** Engineering the next generation of AI-driven SaaS.
 - 🚀 **Performance:** Obsessed with sub-second load times and clean UI.
 - 🧠 **Philosophy:** If it can be automated, it should be.
@@ -87,5 +87,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jitbiswas485&color=5B61FF&style=flat-square&label=PROFILE+VIEWS" />
   <br />
-  <b>Designed with Precision by JIT BISWAS</b>
+  <b>Designed with Precision by <a href="https://github.com/jitbiswas485">JIT BISWAS</a></b>
 </div>
