@@ -1,13 +1,13 @@
-# <p align="center">✨ Jit Biswas ✨</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Jit%20Biswas&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
-</p>
+  <h3>🚀 Full-Stack Developer | AI Architect | Scalable Systems</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+  <p>
+    <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ### 💻 Tech Ecosystem
 
