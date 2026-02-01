@@ -25,11 +25,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 - ⚡ I love turning complex ideas into **clean, production-ready products**
 
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jit-biswas)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jitbiswas485@gmail.com)
-
-
 ## 🛠️ Tech Stack
 
 <table>
@@ -50,7 +45,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
     </td>
     <td width="50%" valign="top">
       <h4>Tools & Platforms</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,canva" />
     </td>
   </tr>
 </table>
