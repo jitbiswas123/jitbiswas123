@@ -129,39 +129,17 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jitbiswas123&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-    width="420"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=jitbiswas123&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="420"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="420"
-  />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=onedark&no-frame=true&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
+![](https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
+--- 
+
+[![](https://visitcount.itsvg.in/api?id=jitbiswas123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
