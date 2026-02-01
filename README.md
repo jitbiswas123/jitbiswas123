@@ -6,7 +6,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
 
----
 
 ## 🧑‍💻 About Me
 
@@ -21,7 +20,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jit-biswas)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jitbiswas485@gmail.com)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +35,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -50,7 +47,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
 
----
 
 ### 🤖 AI & Data
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
@@ -58,7 +54,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
----
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -67,7 +62,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
----
 
 ### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
@@ -78,7 +72,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
@@ -88,7 +81,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
 
 ## 📊 Coding Profiles
 
@@ -100,7 +92,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   />
 </p>
 
----
 
 ### 🧠 Other Competitive Programming Platforms
 
@@ -125,13 +116,11 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   </a>
 </p>
 
----
 
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 **“If it works, I built it. If it breaks, I’m fixing it:)”**
 
