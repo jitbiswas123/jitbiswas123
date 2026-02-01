@@ -106,7 +106,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 ### 🧠 Other Competitive Programming Platforms
 
-<p align="center">
+<p>
   <a href="https://leetcode.com/jitbiswas485">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
@@ -136,10 +136,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=swift&no-frame=false&no-bg=true&margin-w=4)
-
---- 
-
-[![](https://visitcount.itsvg.in/api?id=jitbiswas123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
