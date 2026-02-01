@@ -101,7 +101,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   />
 </p>
 
-
 ---
 
 ### 🧠 Other Competitive Programming Platforms
@@ -109,16 +108,16 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 <p>
   <a href="https://leetcode.com/jitbiswas485">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+  </a> <br/>
   <a href="https://www.geeksforgeeks.org/user/jitbiswas">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-  </a>
+  </a><br/>
   <a href="https://codechef.com/users/jit_biswas">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
-  </a>
+  </a><br/>
   <a href="https://codeforces.com/profile/Jit_Biswas">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces"/>
-  </a>
+  </a><br/>
   <a href="https://hackerrank.com/jitbiswas485">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
@@ -130,12 +129,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jitbiswas123&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
