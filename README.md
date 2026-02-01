@@ -9,6 +9,33 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+### 💻 Tech Ecosystem
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Frontend Mastery</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,vite,bootstrap" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Backend & AI</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,mongodb,postgres,tensorflow" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>DevOps & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,aws,gcp,nginx,linux" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>Tools & Platforms</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 Full-Stack Developer | AI-Driven Web Apps | Scalable Systems
 
 I’m a **Full-Stack Web Developer** focused on building **production-ready, scalable web applications** using modern frontend frameworks, robust backend architectures, and AI-powered features.
