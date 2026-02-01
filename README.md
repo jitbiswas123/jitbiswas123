@@ -92,6 +92,9 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jitbiswas485&color=5B61FF&style=flat-square&label=PROFILE+VIEWS" />
+</p>
 
 **“If it works, I built it. If it breaks, I’m fixing it:)”**
 
