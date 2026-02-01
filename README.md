@@ -1,26 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00000000&height=200&section=header&text=JIT%20BISWAS&fontSize=90&animation=fadeIn&fontAlignY=40&fontStyle=bold&fontColor=5B61FF" width="100%" />
 
-  <br/>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=5B61FF&center=true&vCenter=true&width=500&height=100&lines=JIT+BISWAS" alt="Jit Biswas" />
 
-  <h3> 💻 Full-Stack Developer | AI Architect | Scalable Systems </h3>
+### 🚀 Full-Stack Developer | AI Architect | Scalable Systems
 
-  <p align="center">
-    <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:jitbiswas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jitbiswas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### ⚡ The Digital Architect
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=5B61FF&width=550&lines=Hello,+I+am+JIT+BISWAS;Crafting+Premium+Digital+Experiences;Building+Scalable+AI+Solutions;MERN+Stack+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=5B61FF&width=550&lines=Crafting+Premium+Digital+Experiences;Building+Scalable+AI+Solutions;MERN+Stack+Specialist;Turning+Ideas+into+Reality" alt="Typing SVG" />
 </p>
 
-* 🔭 **Current Mission:** Engineering the next generation of AI-driven SaaS.
-* 🚀 **Performance:** Obsessed with sub-second load times and clean UI.
-* 🧠 **Philosophy:** If it can be automated, it should be.
+- 🔭 **Current Focus:** Engineering the next generation of AI-driven SaaS.
+- 🚀 **Performance:** Obsessed with sub-second load times and clean UI.
+- 🧠 **Philosophy:** If it can be automated, it should be.
 
 ---
 
@@ -89,5 +87,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jitbiswas485&color=5B61FF&style=flat-square&label=PROFILE+VIEWS" />
   <br />
-  <b>Designed with Precision by <a href="https://github.com/jitbiswas485">JIT BISWAS</a></b>
+  <b>Designed with Precision by JIT BISWAS</b>
 </div>
