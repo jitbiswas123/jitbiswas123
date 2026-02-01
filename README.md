@@ -1,4 +1,13 @@
-# 👋 Hi, I’m Jit Biswas
+# <p align="center">✨ Jit Biswas ✨</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## 🚀 Full-Stack Developer | AI-Driven Web Apps | Scalable Systems
 
