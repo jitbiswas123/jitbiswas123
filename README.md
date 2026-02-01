@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=JIT%20BISWAS&fontColor=5B61FF&fontSize=60&fontAlignY=50&font=Montserrat" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&text=JIT%20BISWAS&fontColor=4F46E5&fontSize=60&fontAlignY=50&font=Montserrat" />
 </h1>
 
 <p align="center">
