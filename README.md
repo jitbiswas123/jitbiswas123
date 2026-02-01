@@ -1,23 +1,46 @@
 <h1 align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&text=JIT%20BISWAS&fontColor=7C3AED&fontSize=60&fontAlignY=50&font=Montserrat" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=JIT%20BISWAS&fontColor=7C3AED&fontSize=60&fontAlignY=50&font=Montserrat" />
 </h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" alt="Typing SVG" />
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/jit-biswas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jitbiswas485@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Systems+Architect;Scalable+Web+Applications" />
 </p>
 
-### ⚡ Quick Overview
+<p align="center">
+  <a href="https://linkedin.com/in/jit-biswas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jitbiswas485@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<hr />
+
+<h3>⚡ Quick Overview</h3>
+
+<hr />
+
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&width=500&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Cloud-native+Deployment+Expert;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
-</p>
-<p>I’m a <strong>Full-Stack Developer</strong> focused on building <strong>scalable, production-ready web applications</strong> using modern frontend frameworks, robust backend systems, and <strong>AI-powered features</strong>. I enjoy designing clean, user-centric experiences, developing <strong>secure REST APIs</strong>, and integrating <strong>AI/LLMs into real-world products</strong>. Currently, I’m deepening my expertise in <strong>system design</strong>, <strong>cloud & DevOps</strong>, and backend optimization to build applications that scale reliably.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&width=500&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Cloud-native+Deployment+Expert;Turning+complex+ideas+into+clean+code" />
 </p>
 
-📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
+<p>
+  I’m a <strong>Full-Stack Developer</strong> focused on building
+  <strong>scalable, production-ready web applications</strong> using modern
+  frontend frameworks, robust backend systems, and
+  <strong>AI-powered features</strong>. I enjoy designing
+  <em>clean, user-centric experiences</em>, developing
+  <strong>secure REST APIs</strong>, and integrating
+  <strong>AI/LLMs into real-world products</strong>.
+  Currently, I’m deepening my expertise in
+  <strong>system design</strong>, <strong>cloud &amp; DevOps</strong>, and
+  <em>backend optimization</em> to build applications that scale reliably.
+</p>
 
+<p>
+  📌 Full-Stack • Backend • AI Integration • Cloud &amp; DevOps
+</p>
 
 ## 🧑‍💻 About Me
 
