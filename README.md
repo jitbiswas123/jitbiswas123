@@ -60,16 +60,16 @@
   <a href="https://www.geeksforgeeks.org/user/jitbiswas">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-  <a href="https://codechef.com/users/YOUR_USERNAME">
+  <a href="https://codechef.com/users/jit_biswas">
     <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/YOUR_USERNAME">
+  <a href="https://codeforces.com/profile/Jit_Biswas">
     <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=for-the-badge&logo=codeforces"/>
   </a>
-  <a href="https://hackerrank.com/YOUR_USERNAME">
+  <a href="https://hackerrank.com/jitbiswas485">
     <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
   </a>
 </p>
