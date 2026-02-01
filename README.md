@@ -35,7 +35,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
----
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -93,7 +92,7 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
   />
 </p>
 
----
+<hr>
 
 ### 🧠 Other Competitive Programming Platforms
 
