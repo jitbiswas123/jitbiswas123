@@ -1,32 +1,34 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Jit%20Biswas&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=00000000&height=200&section=header&text=JIT%20BISWAS&fontSize=90&animation=fadeIn&fontAlignY=40&fontStyle=bold&fontColor=5B61FF" width="100%" />
 
-  <h3>🚀 Full-Stack Developer | AI Architect | Scalable Systems</h3>
+  <br/>
 
-  <p>
+  <h3> 💻 Full-Stack Developer | AI Architect | Scalable Systems </h3>
+
+  <p align="center">
     <a href="https://linkedin.com/in/jitbiswas485"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:jitbiswas.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### ⚡ Quick Overview
+### ⚡ The Digital Architect
 <p align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5B61FF&width=550&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Architecting+Scalable+Cloud+Systems;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=5B61FF&width=550&lines=Hello,+I+am+JIT+BISWAS;Crafting+Premium+Digital+Experiences;Building+Scalable+AI+Solutions;MERN+Stack+Specialist" alt="Typing SVG" />
 </p>
 
-- 🔭 **Current Focus:** Deep learning integration in SaaS products.
-- 👯 **Collaboration:** Open for real-world AI & Scalable Web projects.
-- 🛠️ **Learning:** Mastering System Design and Advanced K8s orchestration.
+* 🔭 **Current Mission:** Engineering the next generation of AI-driven SaaS.
+* 🚀 **Performance:** Obsessed with sub-second load times and clean UI.
+* 🧠 **Philosophy:** If it can be automated, it should be.
 
 ---
 
 ### 🛠️ Tech Ecosystem
 <table align="center" border="0">
   <tr>
-    <td align="center" width="400"><strong>Frontend Mastery</strong></td>
-    <td align="center" width="400"><strong>Backend & AI</strong></td>
+    <td align="center" width="400"><strong>🎨 Frontend Mastery</strong></td>
+    <td align="center" width="400"><strong>⚙️ Backend & AI</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -37,8 +39,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Cloud & DevOps</strong></td>
-    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center"><strong>☁️ Cloud & DevOps</strong></td>
+    <td align="center"><strong>🧰 Tools & Platforms</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -46,24 +48,6 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Featured Projects
-<table align="center" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/jitbiswas485/PROJECT-NAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitbiswas485&repo=YOUR_REPO_1&theme=radical&show_owner=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jitbiswas485/PROJECT-NAME">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jitbiswas485&repo=YOUR_REPO_2&theme=radical&show_owner=true" />
-      </a>
     </td>
   </tr>
 </table>
@@ -104,6 +88,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jitbiswas485&color=5B61FF&style=flat-square&label=PROFILE+VIEWS" />
-  <br>
-  <sub>Built with ❤️ by Jit Biswas</sub>
+  <br />
+  <b>Designed with Precision by <a href="https://github.com/jitbiswas485">JIT BISWAS</a></b>
 </div>
