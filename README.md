@@ -15,6 +15,15 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 
 📌 Full-Stack • Backend • AI Integration • Cloud & DevOps
 
+### ⚡ Quick Overview
+<p align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=5B61FF&width=500&lines=Building+production-ready+web+apps;Specializing+in+MERN+%2B+AI+Integration;Cloud-native+Deployment+Expert;Turning+complex+ideas+into+clean+code" alt="Typing SVG" />
+</p>
+
+- 🔭 **Current Focus:** Deep learning integration in SaaS products.
+- 👯 **Collaboration:** Open for real-world AI & Scalable Web projects.
+- 🛠️ **Learning:** Mastering System Design and Advanced K8s orchestration.
+
 
 ## 🧑‍💻 About Me
 
@@ -92,9 +101,6 @@ I’m a **Full-Stack Web Developer** focused on building **production-ready, sca
 ![](https://github-readme-stats.vercel.app/api?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=jitbiswas123&theme=codeSTACKr&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jitbiswas123&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jitbiswas485&color=5B61FF&style=flat-square&label=PROFILE+VIEWS" />
-</p>
 
 **“If it works, I built it. If it breaks, I’m fixing it:)”**
 
